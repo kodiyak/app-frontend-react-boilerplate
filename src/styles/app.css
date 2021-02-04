@@ -1,0 +1,10 @@
+.slide__anime-carousel {
+  overflow: hidden;
+  width: 100%;
+  background: transparent !important;
+}
+
+.slide__anime-carousel .slide {
+  overflow-y: visible;
+  background: transparent !important;
+}
